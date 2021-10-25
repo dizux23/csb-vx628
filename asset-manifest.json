@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dizux23.github.io/csb-vx628/static/css/main.a5937bd9.chunk.css",
+    "main.js": "https://dizux23.github.io/csb-vx628/static/js/main.f05b3693.chunk.js",
+    "main.js.map": "https://dizux23.github.io/csb-vx628/static/js/main.f05b3693.chunk.js.map",
+    "runtime-main.js": "https://dizux23.github.io/csb-vx628/static/js/runtime-main.d0e6d5e9.js",
+    "runtime-main.js.map": "https://dizux23.github.io/csb-vx628/static/js/runtime-main.d0e6d5e9.js.map",
+    "static/js/2.6e82caa9.chunk.js": "https://dizux23.github.io/csb-vx628/static/js/2.6e82caa9.chunk.js",
+    "static/js/2.6e82caa9.chunk.js.map": "https://dizux23.github.io/csb-vx628/static/js/2.6e82caa9.chunk.js.map",
+    "index.html": "https://dizux23.github.io/csb-vx628/index.html",
+    "static/css/main.a5937bd9.chunk.css.map": "https://dizux23.github.io/csb-vx628/static/css/main.a5937bd9.chunk.css.map",
+    "static/js/2.6e82caa9.chunk.js.LICENSE.txt": "https://dizux23.github.io/csb-vx628/static/js/2.6e82caa9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e6d5e9.js",
+    "static/js/2.6e82caa9.chunk.js",
+    "static/css/main.a5937bd9.chunk.css",
+    "static/js/main.f05b3693.chunk.js"
+  ]
+}
